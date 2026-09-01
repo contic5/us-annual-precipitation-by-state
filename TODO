@@ -1,19 +1,4 @@
-CALCULATE AVERAGE DROUGHT INDEX BY DECADE FOR EACH STATE AND REGION.
+The change is less important than how things are now. The trend is important, but we can also review how things are for the decade.
 
-COLUMNS SHOULD BE AS FOLLOWS
-Area
-Is_Region (True,False)
-1890
-1900
-1910
-1920
-1930
-1940
-1950
-1960
-1970
-1980
-1990
-2000
-2010
-2020
+Future questions:
+Maybe make the average a set of months. Could average for summer months maybe.
